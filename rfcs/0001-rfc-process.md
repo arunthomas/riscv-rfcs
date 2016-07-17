@@ -22,6 +22,8 @@ RISC-V ISA or other aspects of the RISC-V project.
 ## Alternatives
 
 * Phabricator instead of GitHub
+* GitLab instead of GitHub
+* reStructuredText instead of Markdown
 * LaTeX instead of Markdown
 * RFCs are submitted for review on isa-dev mailing list
 * All discussion occurs on isa-dev mailing list
