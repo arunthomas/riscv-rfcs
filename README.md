@@ -10,7 +10,7 @@ RISC-V ISA or other aspects of the RISC-V project.
 
 ## Active RFC List
 
-* [0000-rfc-process.md](rfcs/0001-rfc-process.md)
+* [0001-rfc-process.md](rfcs/0001-rfc-process.md)
 
 # Other RFC Processes
 
